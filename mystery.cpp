@@ -10,6 +10,7 @@ void print(auto A)
    cout<<endl;
 }
 
+// Insertion Sort
 void mystery1(auto& Data)
 {
   cout<<endl<<"Mystery 1"<<endl<<"---------------------"<<endl;
@@ -27,7 +28,7 @@ void mystery1(auto& Data)
 
 //... Other mysteries...
 
-
+// Bubble Sort
 void mystery2(auto& Data)
 {
   cout<<endl<<"Mystery 2"<<endl<<"---------------------"<<endl;
@@ -43,6 +44,7 @@ void mystery2(auto& Data)
 
 }
 
+// Selection Sort
 void mystery3(auto& Data)
 {
   cout<<endl<<"Mystery 3"<<endl<<"---------------------"<<endl;
