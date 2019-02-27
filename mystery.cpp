@@ -27,7 +27,7 @@ void mystery1(auto& Data)
 
 //... Other mysteries...
 
-//mystery 2 Selection Sort
+
 void mystery2(auto& Data)
 {
   cout<<endl<<"Mystery 2"<<endl<<"---------------------"<<endl;
@@ -43,7 +43,6 @@ void mystery2(auto& Data)
 
 }
 
-//mystery 3 Insertion Sort
 void mystery3(auto& Data)
 {
   cout<<endl<<"Mystery 3"<<endl<<"---------------------"<<endl;
